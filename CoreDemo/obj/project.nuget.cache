@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QdICq5h1NxHao3ONaKeilsTJtabncskvMihoF0xTJajiplTp4xA705Oh+vdZpms2+BBh1cj/2ok8GfzRk50g7g==",
+  "dgSpecHash": "QGw6D8RmMRsged6DS2Q4Ld7rjj6jKQkZlZElaqZDSNV5wScJaV1qnpy9KW4a+VUsnH819W8O538Fiqn0+de6JQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
